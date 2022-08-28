@@ -1,0 +1,24 @@
+{
+    "token": "OTE5NjgwMjczNDkzMzk3NTM0.GrCCfH.NxkSy20705wLklw3B73eGPl7vwatJ9tCAgxII4",
+    "_comment": "EXEMPLE DE CONFIG D'UN SERVEUR, CELA CE FAIT AUTOMATIQUEMENT",
+    "guilds": {
+        "902515819009941544": {
+            "prefix": "?",
+            "language": "fr-FR",
+            "antiProfanity": true,
+            "antiNudity": true,
+            "antiSpam": true,
+            "allowSpam": [
+                1000759958406713475,
+                1000759934079750154,
+                1000761051928866927
+            ],
+            "captcha": true,
+            "captchaChannel": 1007497543724302356,
+            "logChannel": 1001158446869139569,
+            "temporaryRole": 1007497332977307649,
+            "roleGivenAfterCaptcha": 976101171339092038,
+            "minAccountDate": 86400
+        }
+    }
+}
