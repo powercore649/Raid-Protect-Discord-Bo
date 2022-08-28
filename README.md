@@ -22,6 +22,7 @@ https://discord.gg/MS6TMgRfqB
 ## Installation
 <br>
 Ouvrez un terminal depuis la racine du dossier du bot et faite:
+
 ```
 - pip install -r requirements.txt
 ```
